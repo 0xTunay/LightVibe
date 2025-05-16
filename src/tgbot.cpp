@@ -4,5 +4,3 @@
 #include "../lib/sqlite3.h"
 #include <iostream>
 #include <../lib/tglib/tgbot.h>
-
-#include <sqlite3.h>
