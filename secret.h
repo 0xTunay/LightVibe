@@ -6,7 +6,7 @@
 #define CONFIG_H
 
 
-#define BOT_TOKEN = "7802508624:AAFqu8rat8XvR6R5uQEHSwGSAEj8edt5vzA"
-#define CHAT_ID = "1663109293"
+#define BOT_TOKEN = "YOURTOKEN"
+#define CHAT_ID = "YOURCHAT"
 
 #endif //CONFIG_H
