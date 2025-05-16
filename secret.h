@@ -5,8 +5,7 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-
-#define BOT_TOKEN = "YOURTOKEN"
-#define CHAT_ID = "YOURCHAT"
+#define BOT_TOKEN = "TOKEN"
+#define CHAT_ID = ":ID"
 
 #endif //CONFIG_H
